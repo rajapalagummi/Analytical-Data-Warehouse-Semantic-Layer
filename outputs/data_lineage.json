@@ -1,6 +1,6 @@
 {
   "pipeline": "Urban Energy Data Warehouse",
-  "generated_at": "2026-05-26T07:36:13.081827",
+  "generated_at": "2026-10-12T08:04:55.522921",
   "layers": {
     "raw": {
       "tables": [
